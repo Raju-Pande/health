@@ -1,0 +1,53 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f8f8f8;
+    margin: 0;
+    padding: 0;
+}
+
+#navbar {
+    background-color: #3498db;
+    padding: 10px;
+    text-align: center;
+}
+
+#navbar h1 {
+    color: #fff;
+    margin: 0;
+}
+
+#patient-info {
+    background-color: #3498db;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+#medication-list {
+    margin: 20px;
+}
+
+.medication-item {
+    background-color: #ecf0f1;
+    border: 1px solid #bdc3c7;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+#controls {
+    text-align: center;
+    margin-top: 20px;
+}
+
+button {
+    background-color: #2ecc71;
+    color: #fff;
+    padding: 10px 20px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #27ae60;
+}
